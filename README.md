@@ -23,7 +23,7 @@ File > Project Structure > Libraries sekmesine git.
 + Tuşuna basın
 Ardından indirdiğiniz jar dosyasını seçin ve Apply OK tuşuna basın ve kütüphanemiz kurulmuş olucak
 
-##Eclipse kullanıyorsan
+## Eclipse kullanıyorsan
 Proje üzerine sağ tıklayıp Build Path > Add External Archives seçeneğini seç.
 İndirilen JAR dosyasını seçip projene dahil et.
 
